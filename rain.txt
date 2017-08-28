@@ -5,5 +5,5 @@ Blue
 Red
 Purple
 Violet
-
+add some new color
 These are the color of Rainbow
